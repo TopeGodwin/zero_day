@@ -1,2 +1,2 @@
-#!/bin/bash
-uname -m
+#!/bin/bash 
+MINGW64_NT-10.0-18362
